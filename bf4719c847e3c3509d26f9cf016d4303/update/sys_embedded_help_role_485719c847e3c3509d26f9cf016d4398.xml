@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2009659_vismusic.admin" name="x_2009659_vismusic.admin">c05719c847e3c3509d26f9cf016d4393</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-20 19:13:31</sys_created_on>
+        <sys_id>485719c847e3c3509d26f9cf016d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c05719c847e3c3509d26f9cf016d4393</sys_name>
+        <sys_package display_value="VisMusic" source="x_2009659_vismusic">bf4719c847e3c3509d26f9cf016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisMusic">bf4719c847e3c3509d26f9cf016d4303</sys_scope>
+        <sys_update_name>sys_embedded_help_role_485719c847e3c3509d26f9cf016d4398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-20 19:13:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
